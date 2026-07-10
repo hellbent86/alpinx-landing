@@ -2,10 +2,10 @@
 
 A high-fidelity, responsive landing page for **AlpinX**, a crypto derivatives trading platform. Built as a single self-contained HTML file with no dependencies, no build step, and no framework — just open `index.html` in any browser.
 
+🔗 **Live preview:** [hellbent86.github.io/alpinx-landing](https://hellbent86.github.io/alpinx-landing)
+
 ![AlpinX Preview](https://img.shields.io/badge/status-production--ready-brightgreen) ![HTML](https://img.shields.io/badge/stack-HTML%20%2B%20CSS%20%2B%20JS-blue) ![Responsive](https://img.shields.io/badge/responsive-desktop%20%7C%20tablet%20%7C%20mobile-orange)
 
----
-🔗 **Live preview:** [hellbent86.github.io/alpinx-landing](https://hellbent86.github.io/ds-hero-section)
 ---
 
 ## Overview
